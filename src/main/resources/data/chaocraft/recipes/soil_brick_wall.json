@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "chaocraft:soil_brick"
+    }
+  },
+  "result": {
+    "item": "chaocraft:soil_brick_wall",
+    "count": 6
+  }
+}

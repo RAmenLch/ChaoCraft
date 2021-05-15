@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "pattern": [
+    "#"
+  ],
+  "ingredients": [{"item": "chaocraft:fish_flesh_minced"}],
+  "result": {
+    "item": "chaocraft:raw_fish_ball",
+    "count": 4
+  }
+}

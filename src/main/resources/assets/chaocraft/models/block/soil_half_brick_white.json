@@ -1,0 +1,8 @@
+{
+  "parent": "chaocraft:block/soil_half_brick",
+  "textures": {
+    "side": "chaocraft:block/white_soil_brick",
+    "top": "chaocraft:block/white_soil_brick",
+    "particle": "chaocraft:block/soil_brick"
+  }
+}

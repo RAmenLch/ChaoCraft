@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "chaocraft:fish_flesh_minced",
+              "conditions": [{
+                "condition": "minecraft:match_tool",
+                "predicate": {
+                  "item": "chaocraft:iron_bar"
+                }}]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "chaocraft:fish_flesh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

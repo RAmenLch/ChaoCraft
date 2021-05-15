@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "up": "chaocraft:block/soil_brick_top",
+    "down": "chaocraft:block/soil_brick_top",
+    "north": "chaocraft:block/soil_brick",
+    "south": "chaocraft:block/soil_brick",
+    "west": "chaocraft:block/soil_brick",
+    "east": "chaocraft:block/soil_brick",
+    "particle": "chaocraft:block/soil_brick"
+  }
+}

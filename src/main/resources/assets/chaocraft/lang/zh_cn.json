@@ -1,0 +1,23 @@
+{
+  "item.chaocraft.beef_ball": "牛肉丸",
+  "item.chaocraft.raw_beef_ball":"生牛肉丸",
+  "item.chaocraft.beef": "生牛肉",
+  "item.chaocraft.beef_minced": "牛肉泥",
+
+  "item.chaocraft.fish_ball":"鱼丸",
+  "item.chaocraft.raw_fish_ball":"生鱼丸",
+  "item.chaocraft.fish_flesh":"生鱼肉",
+  "item.chaocraft.fish_flesh_minced":"生鱼肉泥",
+
+  "item.chaocraft.iron_bar":"铁棒",
+  "item.chaocraft.soil_brick":"土砖",
+  "item.chaocraft.soil_brick_wall":"土砖墙",
+  "item.chaocraft.soil_brick_slab":"土砖台阶",
+
+  "itemGroup.chaocraft_group": "潮汕工艺",
+
+
+  "message.chaocraft.counter": "计数: %d",
+  "container.chaocraft.soup_furnace": "汤锅"
+
+}

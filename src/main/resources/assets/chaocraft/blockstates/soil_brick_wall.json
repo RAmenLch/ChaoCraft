@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=east,is_cover=0": { "model": "chaocraft:block/soil_half_brick" },
+    "facing=west,is_cover=0": { "model": "chaocraft:block/soil_half_brick","y":180,"uvlock":true },
+    "facing=south,is_cover=0": { "model": "chaocraft:block/soil_half_brick","y":90,"uvlock":true },
+    "facing=north,is_cover=0": { "model": "chaocraft:block/soil_half_brick","y":270,"uvlock":true },
+    "facing=east,is_cover=1": { "model": "chaocraft:block/soil_half_brick_white" },
+    "facing=west,is_cover=1": { "model": "chaocraft:block/soil_half_brick_white","y":180,"uvlock":true },
+    "facing=south,is_cover=1": { "model": "chaocraft:block/soil_half_brick_white","y":90,"uvlock":true },
+    "facing=north,is_cover=1": { "model": "chaocraft:block/soil_half_brick_white","y":270,"uvlock":true }
+  }
+}

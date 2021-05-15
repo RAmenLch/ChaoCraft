@@ -1,0 +1,12 @@
+{
+  "parent": "chaocraft:block/soup_furnace",
+  "textures": {
+    "particle": "chaocraft:block/soup_furnace",
+    "side": "chaocraft:block/soup_furnace",
+    "front": "chaocraft:block/soup_furnace_front_on",
+    "inner": "chaocraft:block/soup_furnace_inner",
+    "down": "chaocraft:block/soup_furnace_down",
+    "up": "chaocraft:block/soup_furnace_up"
+  }
+
+}

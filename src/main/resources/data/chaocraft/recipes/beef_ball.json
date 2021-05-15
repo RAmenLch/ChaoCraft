@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "pattern": [
+    "#"
+  ],
+  "ingredients": [{"item": "chaocraft:beef_minced"}],
+  "result": {
+    "item": "chaocraft:raw_beef_ball",
+    "count": 4
+  }
+}

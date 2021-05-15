@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[31,)" 
+[[mods]] #mandatory
+modId="chaocraft"
+version="${file.jarVersion}" 
+displayName="ChaoCraft"
+authors="RAmen_L"
+description='''
+潮汕工艺！
+'''

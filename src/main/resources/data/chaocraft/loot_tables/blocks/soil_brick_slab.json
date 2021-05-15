@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 2,
+      "conditions": [{
+        "condition": "minecraft:block_state_property",
+        "block":"chaocraft:soil_brick_slab",
+        "properties": {"type": "double"}
+      }],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "chaocraft:soil_brick_slab"
+        }
+      ]
+    },{
+      "rolls": 1,
+      "conditions": [{
+        "condition": "minecraft:alternative",
+        "terms": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block":"chaocraft:soil_brick_slab",
+            "properties": {"type": "top"}
+          },
+          {
+            "condition": "minecraft:block_state_property",
+            "block":"chaocraft:soil_brick_slab",
+            "properties": {"type": "bottom"}
+          }
+        ]
+      }],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "chaocraft:soil_brick_slab"
+        }
+      ]
+    }
+  ]
+}

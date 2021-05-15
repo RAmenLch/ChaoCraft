@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "is_cover=0": { "model": "chaocraft:block/soil_brick_model" },
+    "is_cover=1": { "model": "chaocraft:block/soil_brick_white_model" }
+  }
+}

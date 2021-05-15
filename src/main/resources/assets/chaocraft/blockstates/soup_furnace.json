@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east,has_water=false,lit=false": {"model": "chaocraft:block/soup_furnace"},
+    "facing=west,has_water=false,lit=false": {"model": "chaocraft:block/soup_furnace","y":180,"uvlock": true},
+    "facing=south,has_water=false,lit=false": {"model": "chaocraft:block/soup_furnace","y":90,"uvlock": true},
+    "facing=north,has_water=false,lit=false": {"model": "chaocraft:block/soup_furnace","y":270,"uvlock": true},
+    "facing=east,has_water=true,lit=false": {"model": "chaocraft:block/soup_furnace_has_water"},
+    "facing=west,has_water=true,lit=false": {"model": "chaocraft:block/soup_furnace_has_water","y":180,"uvlock": true},
+    "facing=south,has_water=true,lit=false": {"model": "chaocraft:block/soup_furnace_has_water","y":90,"uvlock": true},
+    "facing=north,has_water=true,lit=false": {"model": "chaocraft:block/soup_furnace_has_water","y":270,"uvlock": true},
+    "facing=east,has_water=false,lit=true": {"model": "chaocraft:block/soup_furnace_lit"},
+    "facing=west,has_water=false,lit=true": {"model": "chaocraft:block/soup_furnace_lit","y":180,"uvlock": true},
+    "facing=south,has_water=false,lit=true": {"model": "chaocraft:block/soup_furnace_lit","y":90,"uvlock": true},
+    "facing=north,has_water=false,lit=true": {"model": "chaocraft:block/soup_furnace_lit","y":270,"uvlock": true},
+    "facing=east,has_water=true,lit=true": {"model": "chaocraft:block/soup_furnace_has_water_lit"},
+    "facing=west,has_water=true,lit=true": {"model": "chaocraft:block/soup_furnace_has_water_lit","y":180,"uvlock": true},
+    "facing=south,has_water=true,lit=true": {"model": "chaocraft:block/soup_furnace_has_water_lit","y":90,"uvlock": true},
+    "facing=north,has_water=true,lit=true": {"model": "chaocraft:block/soup_furnace_has_water_lit","y":270,"uvlock": true}
+  }
+}

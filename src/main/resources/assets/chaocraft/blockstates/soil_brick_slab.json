@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "type=bottom,is_cover=0": { "model": "chaocraft:block/soil_half_brick_down" },
+    "type=top,is_cover=0": { "model": "chaocraft:block/soil_half_brick_down","x":180,"uvlock":true },
+    "type=double,is_cover=0": { "model": "chaocraft:block/soil_brick_model" },
+    "type=bottom,is_cover=1": { "model": "chaocraft:block/soil_half_brick_down_white" },
+    "type=top,is_cover=1": { "model": "chaocraft:block/soil_half_brick_down_white","x":180,"uvlock":true },
+    "type=double,is_cover=1": { "model": "chaocraft:block/soil_brick_white_model" }
+  }
+}
